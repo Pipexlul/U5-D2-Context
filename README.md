@@ -6,4 +6,4 @@ Utilizando Context API para evitar Prop Drilling
 
 ## Proyecto desplegado
 
-[Link](https://pipexlul.github.io/U5-D2-ContextI/)
+[Link](https://pipexlul.github.io/U5-D2-Context/)
